@@ -3,6 +3,7 @@
 In this project, we clean and process HR data to answer the following questions using mySQL and PowerBI. 
 
 ![App Screenshot](https://i.postimg.cc/3rbj7pZv/Screenshot-2023-07-06-224805.png)
+![App Screenshot](https://i.postimg.cc/2jPBGBNd/Screenshot-2023-07-06-233632.png)
 
 # Data Used
 **Data** - HR Data with over 22000 rows from the year 2000 to 2020.
