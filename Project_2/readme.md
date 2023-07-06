@@ -2,8 +2,8 @@
 # HR Data Analysis Report (mySQL-PowerBI)
 In this project, we clean and process HR data to answer the following questions using mySQL and PowerBI. 
 
-![App Screenshot](https://i.postimg.cc/3Rp5X6TH/Screenshot-2023-07-06-224805.png)
-![App Screenshot](https://i.postimg.cc/N03Zj4rC/Screenshot-2023-07-06-233632.png)
+![App Screenshot](https://i.postimg.cc/50Hkck9k/Screenshot-2023-07-06-224805.png)
+![App Screenshot](https://i.postimg.cc/BnK66JYq/Screenshot-2023-07-06-233632.png)
 
 # Data Used
 **Data** - HR Data with over 22000 rows from the year 2000 to 2020.
